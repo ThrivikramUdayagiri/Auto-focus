@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Auto-focus/static/css/main.88e7fd47.css",
+    "main.js": "/Auto-focus/static/js/main.2499287d.js",
+    "index.html": "/Auto-focus/index.html",
+    "main.88e7fd47.css.map": "/Auto-focus/static/css/main.88e7fd47.css.map",
+    "main.2499287d.js.map": "/Auto-focus/static/js/main.2499287d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88e7fd47.css",
+    "static/js/main.2499287d.js"
+  ]
+}
